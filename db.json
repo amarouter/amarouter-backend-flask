@@ -1,0 +1,16 @@
+{
+    "users": [
+        { "id": 1, "name": "Irem", "surname": "Kilikya", "email": "iremkilikya@gmail.com", "password": "123456" },
+        { "id": 2, "name": "Isa", "surname": "Kilikya", "email": "isakilikya@gmail.com", "password": "123456" }
+    ],
+    "categories": [
+        { "id": 1, "title": "JavaScript" },
+        { "id": 2, "title": "Python" },
+        { "id": 3, "title": "SQL" }
+    ],
+    "blog_posts": [
+        { "id": 1, "author_id": 1, "category": 1, "title": "JavaScript'e Giriş", "article": "JavaScript yazısı." },
+        { "id": 2, "author_id": 1, "category": 2, "title": "Python'a Giriş", "article": "Python yazısı." },
+        { "id": 3, "author_id": 2, "category": 3, "title": "SQL'e Giriş", "article": "SQL yazısı." }
+    ]
+}
