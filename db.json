@@ -9,8 +9,8 @@
         { "id": 3, "title": "SQL" }
     ],
     "blog_posts": [
-        { "id": 1, "author_id": 1, "category": 1, "title": "JavaScript'e Giriş", "article": "JavaScript yazısı." },
-        { "id": 2, "author_id": 1, "category": 2, "title": "Python'a Giriş", "article": "Python yazısı." },
-        { "id": 3, "author_id": 2, "category": 3, "title": "SQL'e Giriş", "article": "SQL yazısı." }
+        { "id": 1, "author_id": 1, "category": 1, "title": "JavaScript'e Giriş", "text": "JavaScript yazısı." },
+        { "id": 2, "author_id": 1, "category": 2, "title": "Python'a Giriş", "text": "Python yazısı." },
+        { "id": 3, "author_id": 2, "category": 3, "title": "SQL'e Giriş", "text": "SQL yazısı." }
     ]
 }
