@@ -8,7 +8,7 @@ application = Flask(__name__)
 def landing_page():
     return "Amarouter Backend"
 
-@application.route('/blog_posts')
+@application.route('/blog-posts')
 def get_blog_posts():
     db = None
     try:
